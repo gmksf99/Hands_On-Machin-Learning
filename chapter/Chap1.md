@@ -60,9 +60,9 @@
 <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/11.png"/>
 
 ### 단순하게 알고 있는 데이터 포인트와 새 데이터 포인트를 비교하는 것인지, 아니면 훈련 데이터셋에서 과학자들처럼 패턴을 발견하여 예측 모델을 만드는지
-- 사례 기반 학습 : 단순히 사례를 기억하므로써 학습을 한다. 그리고 유사도 측정을 사용해 새로운 데이터를 일반화한다.
+* 사례 기반 학습 : 단순히 사례를 기억하므로써 학습을 한다. 그리고 유사도 측정을 사용해 새로운 데이터를 일반화한다.
 <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/12.png"/>
-- 모델 기반 : 샘플들의 모델을 만들어 예측에 사용
+* 모델 기반 : 샘플들의 모델을 만들어 예측에 사용
 <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/13.png"/>
 * 작업
 데이터를 분석 → 모델 선택 → 훈련 데이터로 모델 훈련 → 새로운 데이터에 모델 적용해 예측(추론), 일반화가 잘 됐는지 확인
