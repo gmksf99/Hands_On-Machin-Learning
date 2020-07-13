@@ -25,7 +25,7 @@
 ### 사람의 감독 하에 훈련 유/무
 - 지도 학습 : 알고리즘에 주입하는 훈련 데이터에 레이블이라는 원하는 답이 포함
 	<h1 align="center">
-  <img src = "https://github.com/gmksf99/Android-Studio/blob/master/.img/앱아이콘.jpg"/>
+  <img src = ".img/01.png"/>
   <hr/>
 	Ex. A라는 메일의 훈련데이터에 이것은 스팸이다!
 
