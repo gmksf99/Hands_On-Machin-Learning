@@ -25,12 +25,12 @@
 ## 1.3 머신러닝 시스템의 종류
 ### 사람의 감독 하에 훈련 유/무
 * 지도 학습 : 알고리즘에 주입하는 훈련 데이터에 레이블이라는 원하는 답이 포함
-  <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/05.png"/>  
+<img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/05.png"/>  
 	* A라는 메일의 훈련데이터에 이것은 스팸이다!
 
 - 비지도 학습 : 말 그대로 훈련 데이터에 레이블(답)이 없이 시스템이 알아서 학습
 <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/06.png"/>
-Ex. 컴퓨터가 스스로 훈련세트를 통해서 통계적인 계산을 해서 어떤 조건이면 이것은 스팸이다, 아니다를 판단하는 것을 말한다.
+	* 컴퓨터가 스스로 훈련세트를 통해서 통계적인 계산을 해서 어떤 조건이면 이것은 스팸이다, 아니다를 판단하는 것을 말한다.
 
 - 비지도 학습 알고리즘 : 군집, 시각화와 차원 축소, 연관 규칙 학습
 
