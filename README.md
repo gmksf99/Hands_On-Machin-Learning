@@ -26,5 +26,5 @@
 * 심층 신경망을 훈련시키기 위한 기법
 * 대규모 데이터셋을 위한 신경망의 규모 확장
 * 강화 학습
-## 예제소스
+## :thumbsup:예제소스
 **http://github.com/rickiepark/handson-m1**
