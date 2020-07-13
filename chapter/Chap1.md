@@ -18,13 +18,13 @@
 	      
 ##  1.2 왜 머신러닝을 사용하는가?
 * 전통적인 프로그래밍 기법을 사용하면 문제가 단순하지 않아 규칙이 점점 길고 복잡해지므로 유지보수가 매우 힘들다.
-  <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/01.png"/>
+<img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/01.png"/>
 * 머신러닝 기법을 사용하면 프로그램이 훨씬 짧아지고 유지 보수하기 쉬우며 대부분 정확도가 높다.
 <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/02.png"/>
 
 ## 1.3 머신러닝 시스템의 종류
 ### 사람의 감독 하에 훈련 유/무
-* 지도 학습 : 알고리즘에 주입하는 훈련 데이터에 레이블이라는 원하는 답이 포함
+- 지도 학습 : 알고리즘에 주입하는 훈련 데이터에 레이블이라는 원하는 답이 포함
 <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/05.png"/>  
 	* A라는 메일의 훈련데이터에 이것은 스팸이다!
 
