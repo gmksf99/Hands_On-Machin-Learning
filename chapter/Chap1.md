@@ -24,7 +24,7 @@
 ## 1.3 머신러닝 시스템의 종류
 ### 사람의 감독 하에 훈련 유/무
 - 지도 학습 : 알고리즘에 주입하는 훈련 데이터에 레이블이라는 원하는 답이 포함
-	<h1 align="center">
+<h1 align="center">
   <img src = "https://github.com/gmksf99/Hands_On-Machin-Learning.git/blob/master/.img/01.png"/>
   <hr/>
 	Ex. A라는 메일의 훈련데이터에 이것은 스팸이다!
