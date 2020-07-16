@@ -73,7 +73,8 @@
 	* 복잡한 문제에서 알고리즘보다 데이터가 더 중요하다.
 		`하지만 훈련 데이터를 모으는 것이 항상 쉽거나 저렴한 일이 아니기때문에 아직까지는 알고리즘을 무시하면 안된다.`
 		
-	<img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/1.PNG"/>
+<img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/1.PNG" width = "500px"/>
+
 > 데이터가 많을수록 정확도가 높아진다.
 
 * 대표성 없는 훈련 데이터
@@ -107,7 +108,7 @@
 			-   훈련 데이터를 더 많이 모은다.
 			-   훈련 데이터의 잡음을 줄인다(예를 들면 오류 데이터 수정과 이상치 제거).
 			
-<img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/3.PNG"/>
+<img src = "https://github.com/gmksf99/Hands_On-Machin-Learning/blob/master/.img/3.PNG" width = "500px"/>
 
 `고차원의 다항 회귀 모델이 삶의 만족도 훈련 데이터에 크게 과대적합된 사례, 이 모델이 선형 모델보다 잘 맞는다고 하더라도 실제로 이 예측은 믿기 힘들다.`
 > 만약 위 모델에 관련없는 특성인 '나라이름'을 추가한다고 했을 때 이름에 'w'가 들어간 나라들의 만족도가 7보다 크다는 패턴을 감지할지 모른다.	이 패턴은 우연히 훈련 데이터에서 찾은 것이지만 진짜인지, 잡음 데이터로 인한 것인지 모델이 구분해낼 방법이 없다.
